@@ -1,0 +1,4 @@
+pyfunny
+=======
+
+python funny code
